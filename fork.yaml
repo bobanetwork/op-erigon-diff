@@ -1,6 +1,6 @@
 title: "Boba Network op-erigon"  # Define the HTML page title
 footer: |  # define the footer with markdown
-  Fork-diff overview of [op-erigon](https://github.com/bobanetwork/v3-erigon), a fork of [erigon](https://github.com/ledgerwatch/erigon). and execution-engine of the [OP Stack](https://github.com/ethereum-optimism/optimism).
+  Fork-diff overview of [op-erigon](https://github.com/bobanetwork/v3-erigon), a fork of [erigon](https://github.com/ledgerwatch/erigon). and execution-engine of the [OP Stack](https://github.com/ethereum-optimism/optimism) for [Boba Network](https://github.com/bobanetwork/v3-anchorage).
 base:
   name: ledgerwatch/erigon
   url: https://github.com/ledgerwatch/erigon
