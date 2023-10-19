@@ -25,5 +25,5 @@ update:
 generate:
 	@echo "Generating..."
 	@git -C "$(UPSTREAM_REPO)" fetch 
-	@go run main.go -repo "$(BOBA_REPO)" -upstream-repo "$(UPSTREAM_REPO)" -fork "$(BOBA_REPO)/fork.yaml" -out build/index.html
+	@go run main.go -repo "$(BOBA_REPO)" -upstream-repo "$(UPSTREAM_REPO)" -fork "$(BOBA_REPO)/fork.yaml"
 .PHONY generate:
